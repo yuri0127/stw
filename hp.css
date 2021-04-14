@@ -179,4 +179,11 @@ padding-top: 150px;
   width:5%;
 }
 
+/* @media screen and (max-width: 480px)
+/* ４８０以下の場合 */
+/* {
+  .aboutimg{
+    display: none;
+  }
 
+} */
