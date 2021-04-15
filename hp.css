@@ -258,11 +258,14 @@ padding-top: 150px;
     top:37%;
   }
   .shop1{
-    width: 400px;
+    width: 300px;
   }
   .shop2{
-    width: 400px;
+    width: 300px;
     padding-top: 30px;
+  }
+  .title3{
+    font-size: 40px;
   }
 }
 @media screen and (max-width: 480px)/* 480px以下の場合(スマホ) */{
