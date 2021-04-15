@@ -4,7 +4,7 @@
 body{
   background-color: #748595;
   /* font-family: Battlefin; */
-   font-family: sans-serif ;
+  font-family: sans-serif;
   color: #ffffff;
   margin: 0;
   box-sizing: border-box;
@@ -406,5 +406,5 @@ padding-top: 150px;
       position: relative;
       top:6px;
       }
-      
+
 }
