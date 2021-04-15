@@ -3,7 +3,8 @@
 }
 body{
   background-color: #748595;
-  font-family: Battlefin;
+  /* font-family: Battlefin; */
+   font-family: sans-serif ;
   color: #ffffff;
   margin: 0;
   box-sizing: border-box;
@@ -267,6 +268,14 @@ padding-top: 150px;
   .title3{
     font-size: 40px;
   }
+  .shop1:active{
+    position: relative;
+    top:6px;
+    }
+    .shop2:active{
+      position: relative;
+      top:6px;
+      }
 }
 @media screen and (max-width: 480px)/* 480px以下の場合(スマホ) */{
   .logo{
@@ -279,9 +288,10 @@ padding-top: 150px;
   .title1{
     font-size: 30px;
     border-bottom: 5px solid;
-    padding-left: 41px;
     width: 50%;
     margin: 0 auto;
+    padding-right: 30px;
+    text-align: center;
   }
   .a{
     font-size: 70px;
@@ -337,7 +347,8 @@ padding-top: 150px;
     border-bottom: 5px solid;
     width: 50%;
     text-align: center;
-    margin-right: 90px;
+    margin-right: 87px;
+
   }
   .c{
     font-size: 70px;
@@ -387,4 +398,13 @@ padding-top: 150px;
   .shop2{
     width:200px;
   }
+  .shop1:active{
+    position: relative;
+    top:6px;
+    }
+    .shop2:active{
+      position: relative;
+      top:6px;
+      }
+      
 }
